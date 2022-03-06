@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InformacionAsignaturas</string>
+    <string name="nombre_asignatura_1">Producción Audiovisual</string>>
+    <string name="nombre_asignatura_2">Diseño de Entornos 3D</string>>
+    <string name="desc_asignatura_1">En esta asignatura se mostrarán y enseñarán los recursos necesarios para llevar a cabo el desarrollo de entornos 3D</string>>
+    <string name="desc_asignatura_2">Con la digitalización y la presencia de Internet la presencia de los medios audiovisuales se ha ido incrementando
+exponencialmente. La visualización de imágenes y vídeos han ganado presencia respecto a los documentos escritos. </string>>
+</resources>
